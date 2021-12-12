@@ -1,7 +1,7 @@
 ### 👋 Hi there, i'm Front-end developer
 
 - 🔭 I’m currently working on improving my front-end developer skills
-- 🌱 I’m currently going through the *100DaysOfCode
+- 🌱 I’m currently going through the *100DaysOfCode*
 - 👯 I’m looking to collaborate on React p
 - 🤔 I’m looking for a mentor
 - 💬 Ask me about React
