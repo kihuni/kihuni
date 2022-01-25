@@ -1,4 +1,4 @@
-### 👋 Hi there, i'm Front-end developer
+### Hi there, i'm Front-end developer 👋 
 
 - 🔭 I’m currently working on improving my front-end developer skills
 - 🌱 I’m currently going through the *100DaysOfCode*
