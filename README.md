@@ -1,13 +1,13 @@
 ![I am Software Developer](https://github.com/kihuni/kihuni/blob/main/Stephen%20kihuni.png)
 
-### Hi there 👋, I'm Stephen Kihuni
+# Hi there 👋, I'm Stephen Kihuni
 
 
 I'm a self-driven software developer and a technical writer with a good work ethic, who wishes to meet and exceed even the most demanding requirements. I can learn fast and work under minimum supervision.
 
 Hire me.
 
-## Skills and Experience
+## Skills:
 
 - REACT 
 
@@ -18,6 +18,7 @@ Hire me.
 -  CSS
 
 
+### Others cool things about me 😄:
 
 - 🔭 I’m currently working on E-commerce page- project by Front-endmentor 
 - 🌱 I’m currently learning Reactjs 
