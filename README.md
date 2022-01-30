@@ -5,7 +5,7 @@
 
 I'm a self-driven software developer and a technical writer with a good work ethic, who wishes to meet and exceed even the most demanding requirements. I can learn fast and work under minimum supervision.
 
-Hire me.
+# Hire me!
 
 ## Skills:
 
