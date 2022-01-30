@@ -9,5 +9,4 @@
 - ⚡ Fun fact: When I'm not Coding, I watch movies
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Stephenkihuni=anuraghazra&hide=contribs,prs)
 
