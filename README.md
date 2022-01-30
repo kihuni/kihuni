@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Stephen Kihuni
 #### I am Software Developer
-![I am Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Software Developer](https://github.com/kihuni/kihuni/blob/main/Stephen%20kihuni.png)
 
 I'm a self-driven software developer and a technical writer with a good work ethic, who wishes to meet and exceed even the most demanding requirements. I can learn fast and work under minimum supervision.
 
