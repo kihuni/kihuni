@@ -8,3 +8,5 @@
 - 📫 How to reach me:Twitter-@Skihuni, Linkedin - stephen kihuni
 - ⚡ Fun fact: When I'm not Coding, I watch movies
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kihuni=anuraghazra&hide=contribs,prs)
+
