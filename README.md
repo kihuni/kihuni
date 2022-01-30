@@ -7,7 +7,7 @@ I'm a self-driven software developer and a technical writer with a good work eth
 
 Hire me.
 
-## Skills and Experiece
+## Skills and Experience
 
 - REACT 
 
@@ -16,6 +16,8 @@ Hire me.
 -  HTML 
 
 -  CSS
+
+
 
 - 🔭 I’m currently working on E-commerce page- project by Front-endmentor 
 - 🌱 I’m currently learning Reactjs 
