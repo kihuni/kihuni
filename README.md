@@ -7,7 +7,7 @@ I'm a self-driven software developer and a technical writer with a good work eth
 
 Hire me.
 
-##Skills and Experiece
+## Skills and Experiece
 
 - REACT 
 
