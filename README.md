@@ -20,7 +20,7 @@ I'm a self-driven software developer and a technical writer with a good work eth
 
 ### Others cool things about me 😄:
 
-- 🔭 I’m currently working on E-commerce page- project by Front-endmentor 
+- 🔭 I’m currently learning software engineering at ALX Africa 
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on Any project 
 - 🤔 I’m looking for help with open-source contribution 
