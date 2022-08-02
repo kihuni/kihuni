@@ -1,4 +1,4 @@
-![I am Software Developer](https://github.com/kihuni/kihuni/blob/main/Stephen%20kihuni.png)
+![I am Software Developer](https://github.com/kihuni/kihuni/blob/main/289111177_7907356302638069_4278195300229097304_n.jpg)
 
 # Hi there 👋, I'm Stephen Kihuni
   
