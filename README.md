@@ -20,12 +20,12 @@ I'm a self-driven software developer and a technical writer with a good work eth
 ### Others cool things about me 😄:
 
 - 🔭 I’m currently learning software engineering at ALX Africa  
-- 👯 I’m looking to collaborate on Any project 
+- 👯 I’m looking to collaborate on any project 
 - 🤔 I’m looking for help with open-source contribution 
 - 💬 Ask me about React.js 
 - 📫 How to reach me: stephenkihuni55@gmail.com 
 - 😄 Pronouns: Mr. 
-- ⚡ Fun fact: When I am not coding, I watch movies. 
+- ⚡ Fun fact: When I am not Coding, I watch movies. 
 
 
 ### Social Informations
