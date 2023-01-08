@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Stephen Kihuni
   
-I'm a self-driven software developer and a student at ALX learning Back-end development.
+I'm a self-driven software developer and a student at ALX.
 
 
 ## Skills:
