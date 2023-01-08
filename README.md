@@ -2,27 +2,24 @@
 
 # Hi there 👋, I'm Stephen Kihuni
   
-I'm a self-driven software developer and a technical writer with a good work ethic, who wishes to meet and exceed even the most demanding requirements. I can learn fast and work under minimum supervision.
+I'm a self-driven software developer and a student at ALX learning Back-end development.
 
-# Hire me!
 
 ## Skills:
 
-- REACT 
+- Javascript
 
-- JS 
+- Typescript 
 
--  HTML 
-
--  CSS
+- Python
 
 
 ### Others cool things about me 😄:
 
-- 🔭 I’m currently learning software engineering at ALX Africa  
+- 🔭 I’m currently learning Back-end development at ALX Africa  
 - 👯 I’m looking to collaborate on any project 
 - 🤔 I’m looking for help with open-source contribution 
-- 💬 Ask me about React.js 
+- 💬 Ask me about Javascript
 - 📫 How to reach me: stephenkihuni55@gmail.com 
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: When I am not Coding, I watch movies. 
