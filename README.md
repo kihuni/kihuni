@@ -24,6 +24,10 @@ I'm a self-driven software developer and a student at ALX.
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: When I am not Coding, I watch movies. 
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh)
+<br/>
 
 ### Social Informations
 
