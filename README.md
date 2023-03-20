@@ -7,11 +7,7 @@ I'm a self-driven software developer and a student at ALX.
 
 ## Skills:
 
-- Javascript
-
-- Typescript 
-
-- Python
+Python || Django
 
 
 ### Others cool things about me 😄:
@@ -19,7 +15,7 @@ I'm a self-driven software developer and a student at ALX.
 - 🔭 I’m currently learning Back-end development at ALX Africa  
 - 👯 I’m looking to collaborate on any project 
 - 🤔 I’m looking for help with open-source contribution 
-- 💬 Ask me about Javascript
+- 💬 Ask me about Python
 - 📫 How to reach me: stephenkihuni55@gmail.com 
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: When I am not Coding, I watch movies. 
