@@ -1,10 +1,10 @@
 ![I am Software Developer](https://github.com/kihuni/kihuni/blob/main/289111177_7907356302638069_4278195300229097304_n.jpg)
 
-# Hi there 👋, I'm Stephen Kihuni
+# Hi there 👋, I'm Stephen Kihuni                 
   
 I am a back-end developer using Django. I specialize in building the server-side functionality of websites, focusing on efficiency and user experience. I have expertise in Python, the language used by Django, and I enjoy creating web applications. I am always eager to learn and stay updated with the latest advancements in web development.
 
-Let's build amazing web applications together!![image](https://github.com/kihuni/kihuni/assets/64348925/c6cf00bd-4cb2-4f79-b482-905edd58d41f)
+Let's build amazing web applications together!
 
 
 
