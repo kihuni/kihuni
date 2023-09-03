@@ -1,11 +1,7 @@
 
 
 # Hi there 👋, I'm Stephen Kihuni                 
-  
-I am a back-end developer using Django. I specialize in building the server-side functionality of websites, focusing on efficiency and user experience. I have expertise in Python, the language used by Django, and I enjoy creating web applications. I am always eager to learn and stay updated with the latest advancements in web development.
-
-Let's build amazing web applications together!
-
+I am a developer who utilizes Django to build the server-side functionality of websites, with a primary focus on efficiency and user experience. My expertise lies in creating web applications. I am always eager to learn and stay up-to-date with the latest advancements in web development. Let's work together to create incredible web applications!
 
 
 ## Skills:
