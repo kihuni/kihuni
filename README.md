@@ -11,7 +11,7 @@ Python || Django
 
 ### Others cool things about me 😄:
 
-- 🔭 I’m currently learning Back-end development  
+- 🔭 I’m currently improving on Back-end development Skills 
 - 👯 I’m looking to collaborate on any project 
 - 🤔 I’m looking for help with open-source contribution 
 - 💬 Ask me about Python
