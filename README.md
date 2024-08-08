@@ -1,7 +1,9 @@
 
 
 # Hi there 👋, I'm Stephen Kihuni                 
-A Software Developer on a continuous journey of learning and honing skills, particularly specializing in Backend development. Proficient in a diverse array of technologies such as Python, Django, JavaScript, React, CSS, HTML, and Postgresql. Demonstrates adeptness in self-directed project management, thriving in autonomous environments, while also excelling in collaborative team dynamics.
+I am a dedicated Software Developer committed to continuously learning and enhancing my skills. My primary focus is on backend development, leveraging a strong proficiency in Python and Django. I also possess extensive experience with JavaScript, React, CSS, HTML, and PostgreSQL.
+
+With a proven ability to manage projects independently and thrive in autonomous environments, I also excel in collaborative team settings. My journey is marked by a passion for creating efficient, scalable, and secure backend systems.
 
 
 ## Skills:
