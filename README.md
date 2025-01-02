@@ -14,25 +14,6 @@ I thrive in both independent project management and collaborative team settings.
 - **Databases:**
   - PostgreSQL
 
-## 🌟 Highlights:
-
-- 🔭 Currently honing my Back-end Development skills.
-- 👯 Open to collaboration on any project.
-- 🤝 Seeking help with open-source contributions.
-- 💬 Feel free to ask me about Python.
-- 📫 Reach me at: stephenkihuni55@gmail.com
-- ⚡ Fun fact: When I'm not coding, I enjoy watching movies.
-
-## 🎧 Now Playing:
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh)
-
-## 🌐 Connect with me:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kihuni)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' height='40'>](https://hashnode.com/@Kihuni)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephen-kihuni-a95b11169/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Skihuni)
 
 ## 📊 GitHub Stats:
 
