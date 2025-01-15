@@ -1,8 +1,16 @@
 # Hi there 👋, I'm Stephen Kihuni
 
-A Software Developer dedicated to continuous learning and skill enhancement. My expertise lies in backend development, and I am proficient in Python and Django. Additionally, I have extensive experience with JavaScript, React, CSS, HTML, and PostgreSQL.
+🎯 API Developer | Technical Writer | Backend Developer
 
-I thrive in both independent project management and collaborative team settings. A passion marks my journey for creating efficient, scalable, and secure backend systems.
+I architect and build APIs that developers love to use. With a passion for clean design and efficient systems, I transform complex business requirements into elegant API solutions. When I'm not coding, I'm teaching others how to build better APIs.
+
+🛠️ API Development Tools
+Design & Architecture
+
+- OpenAPI/Swagger Specification
+- REST API Design Patterns
+- API Security Best Practices
+- Rate Limiting & Caching Strategies
 
 ## 🚀 Skills:
 
