@@ -12,9 +12,10 @@ I architect and build APIs that developers love to use. With a passion for clean
 - API Security Best Practices
 - Rate Limiting & Caching Strategies
 
-## 🎓 API Education & Teaching
+## 🎓 Read My Blogs
 
-### What I Teach
+### What I About:
+
 - API Design Principles
 - REST Architecture
 - Security Implementation
