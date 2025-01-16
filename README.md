@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Stephen Kihuni
 
-## 🎯 API Developer | Technical Writer | Backend Developer
+## 🎯 Backend Developer | API Developer | Technical Writer 
 
-I architect and build APIs that developers love to use. With a passion for clean design and efficient systems, I transform complex business requirements into elegant API solutions. When I'm not coding, I'm teaching others how to build better APIs.
+I design and build APIs that developers love to use. With a passion for clean design and efficient systems, I transform complex business requirements into elegant API solutions.
 
 ## 🛠️ API Development Tools
 
