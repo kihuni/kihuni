@@ -14,7 +14,7 @@ I architect and build APIs that developers love to use. With a passion for clean
 
 ## 🎓 Read My Blogs
 
-### What I About:
+### What I write:
 
 - API Design Principles
 - REST Architecture
