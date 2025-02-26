@@ -9,8 +9,8 @@ I craft clear, developer-friendly API docs and tutorials—backed by hands-on ex
 ### ✍️ Technical Writing That Works
 - **What I Write**: API tutorials, REST best practices, security guides, and performance tips.  
 - **Latest Work**:  
-  - [Real-Time Weather Dashboard with OpenWeather API & Django]([https://your-blog-link.com/weather-dashboard](https://dev.to/kihuni/building-a-real-time-weather-dashboard-with-openweather-api-and-django-35c5)) – A step-by-step guide to fetch, display, and refresh live data.  
-  - More on [my blog]([https://your-blog-link.com](https://dev.to/kihuni)).  
+  - [Real-Time Weather Dashboard with OpenWeather API & Django](https://dev.to/kihuni/building-a-real-time-weather-dashboard-with-openweather-api-and-django-35c5) – A step-by-step guide to fetch, display, and refresh live data.  
+  - More on [my blog](https://dev.to/kihuni).  
 
 ---
 
