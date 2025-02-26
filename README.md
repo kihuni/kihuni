@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Stephen Kihuni
 
-🎯 **Technical Writer | API Developer | Backend Specialist**
+🎯 **Technical Writer | API Developer | Backend Developer**
 
 I craft clear, developer-friendly API docs and tutorials—backed by hands-on experience building APIs with Django and Python. From REST design to security, I turn complex tech into guides devs love to read.
 
