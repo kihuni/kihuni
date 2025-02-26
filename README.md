@@ -1,42 +1,32 @@
 # Hi there 👋, I'm Stephen Kihuni
 
-## 🎯 Backend Developer | API Developer | Technical Writer 
+🎯 **Technical Writer | API Developer | Backend Specialist**
 
-I design and build APIs that developers love to use. With a passion for clean design and efficient systems, I transform complex business requirements into elegant API solutions.
+I craft clear, developer-friendly API docs and tutorials—backed by hands-on experience building APIs with Django and Python. From REST design to security, I turn complex tech into guides devs love to read.
 
-## 🛠️ API Development Tools
+---
 
-### Design & Architecture
-- OpenAPI/Swagger Specification
-- REST API Design Patterns
-- API Security Best Practices
-- Rate Limiting & Caching Strategies
+### ✍️ Technical Writing That Works
+- **What I Write**: API tutorials, REST best practices, security guides, and performance tips.  
+- **Latest Work**:  
+  - [Real-Time Weather Dashboard with OpenWeather API & Django]([https://your-blog-link.com/weather-dashboard](https://dev.to/kihuni/building-a-real-time-weather-dashboard-with-openweather-api-and-django-35c5)) – A step-by-step guide to fetch, display, and refresh live data.  
+  - More on [my blog]([https://your-blog-link.com](https://dev.to/kihuni)).  
 
-## 🎓 Read My Blogs
+---
 
-### What I write:
+### 🛠️ API & Dev Skills
+- **Languages/Frameworks**: Python, Django, JavaScript, React  
+- **API Tools**: OpenAPI/Swagger, REST design, rate limiting, caching  
+- **Databases**: PostgreSQL  
 
-- API Design Principles
-- REST Architecture
-- Security Implementation
-- Performance Optimization
-- Real-world API Development
+---
 
-[Check out my blog](https://dev.to/kihuni)
+### 🤝 Let’s Collaborate
+Need API docs that devs use? Tutorials to onboard users fast? I’m your guy. Let’s chat about your next project—or hire me to write your API story!
 
-## 🚀 Skills
-
-### Languages & Frameworks
-- Python & Django
-- JavaScript & React
-- CSS & HTML
-
-### Databases
-- PostgreSQL
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on API projects or share knowledge about API development. Whether you need consultation on your API architecture or want to learn more about API development, let's connect!
+- **Twitter**: [@Skihuni](https://twitter.com/Skihuni)  
+- **LinkedIn**: [Stephen Kihuni](https://linkedin.com/in/stephen-kihuni)  
+- **Email**: stephenkihuni55@gmail.com 
 
 ## 📫 How to reach me
 - Twitter: [@Skihuni](https://x.com/SKihuni)
