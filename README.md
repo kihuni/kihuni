@@ -28,11 +28,6 @@ Need API docs that devs use? Tutorials to onboard users fast? I’m your guy. Le
 - **LinkedIn**: [Stephen Kihuni](https://linkedin.com/in/stephen-kihuni)  
 - **Email**: stephenkihuni55@gmail.com 
 
-## 📫 How to reach me
-- Twitter: [@Skihuni](https://x.com/SKihuni)
-- LinkedIn: [Stephen Kihuni](https://www.linkedin.com/in/kihuni/)
-- Email: stephenkihuni55@gmail.com
-
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kihuni&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihuni&layout=compact&theme=radical)
