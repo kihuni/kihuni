@@ -1,44 +1,63 @@
-# Hi there 👋, I'm Stephen Kihuni  
+# 👋 Hi, I'm Stephen Kihuni
 
-🎯 **Backend Developer | API Developer | Technical writer**  
+**🎯 Backend Developer | API Developer | Technical Writer**
 
-I specialize in building scalable and well-documented APIs using **Django** and **Python**. Whether it's designing RESTful services, implementing security best practices, or optimizing performance, I bring backend systems to life. I also write **developer-friendly technical content**, making complex topics easy to understand.  
-
----
-
-## 🚀 What I Do  
-
-### 🔹 Backend Development  
-- **Languages & Frameworks**: Python, Django, Django REST Framework  
-- **Databases**: PostgreSQL, MySQL, Redis  
-- **API Tools**: OpenAPI/Swagger, Authentication (JWT, OAuth2), Rate Limiting  
-
-### 🔹 DevOps & Deployment  
-- **Tools**: Docker, GitHub Actions, CI/CD  
-- **Cloud Platforms**: AWS, DigitalOcean, Heroku  
+I build robust, scalable, and secure APIs using **Django** and **Python**. From designing RESTful services to deploying on the cloud, I specialize in backend solutions that just work. I’m also passionate about making complex technical concepts easy to understand through **clear and actionable content**.
 
 ---
 
-## ✍️ Technical Writing  
-I create tutorials and guides to help developers **build better APIs**.  
+## 🚀 What I Do
 
-📌 **Latest Article Series:**  
-🚀 **[How to Build a Task Manager API with Django REST Framework](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)**  
-_A step-by-step guide covering everything from setting up a Django project to securing your API._  
+### 🔧 Backend Development
+- **Languages & Frameworks**: Python · Django · Django REST Framework  
+- **Databases**: PostgreSQL · MySQL · Redis  
+- **API Development**: RESTful APIs · OpenAPI/Swagger · JWT & OAuth2 · Rate Limiting  
 
-📝 **More on my blog:** [dev.to/kihuni](https://dev.to/kihuni)  
+### ☁️ DevOps & Deployment
+- **Tools**: Docker · GitHub Actions · CI/CD  
+- **Cloud**: AWS · DigitalOcean · Heroku  
+
+### ✍️ Technical Writing
+I write developer-focused tutorials, documentation, and in-depth guides to help others build more effective APIs.
+
+> 📌 **Featured Series**:  
+> [🚀 How to Build a Task Manager API with Django REST Framework](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)  
+> _From project setup to authentication and testing — a complete walkthrough._
+
+📝 More articles on [dev.to/kihuni »](https://dev.to/kihuni)
 
 ---
 
-## 💼 Let’s Work Together  
-Looking for a **Django backend developer** or an **API Developer**? I’m open to collaborations, contract roles, and technical writing opportunities.  
+## 💼 Let's Collaborate
 
-📩 **Email**: stephenkihuni55@gmail.com  
-🐦 **Twitter**: [@Skihuni](https://twitter.com/Skihuni)  
-🔗 **LinkedIn**: [Stephen Kihuni](https://linkedin.com/in/stephen-kihuni)  
+Looking for a **Django Backend Developer**, **API Developer**, or **Technical Writer**?
+
+I’m open to:
+- 💼 Freelance & Contract Work  
+- 🛠️ Open Source Projects  
+- 📝 Writing & Documentation Opportunities  
+
+📫 Reach me at:  
+[📧 stephenkihuni55@gmail.com](mailto:stephenkihuni55@gmail.com)  
+[🐦 @Skihuni](https://twitter.com/Skihuni) • [🔗 LinkedIn](https://linkedin.com/in/stephen-kihuni)
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kihuni&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihuni&layout=compact&theme=radical)  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kihuni&show_icons=true&theme=radical" alt="Stephen Kihuni's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kihuni&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- System Design for Backend Engineers  
+- GraphQL & gRPC APIs  
+- Kubernetes & Advanced DevOps  
+
+---
+
+
+⭐️ **Let’s build amazing things together.**
