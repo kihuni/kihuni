@@ -52,12 +52,5 @@ I’m open to:
 
 ---
 
-## 🧠 Currently Learning
-- System Design for Backend Engineers  
-- GraphQL & gRPC APIs  
-- Kubernetes & Advanced DevOps  
-
----
-
 
 ⭐️ **Let’s build amazing things together.**
