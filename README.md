@@ -3,7 +3,7 @@
 
 I specialize in building robust, scalable, and secure APIs using Django and Python. From RESTful design to cloud deployment, I focus on solutions that work. I also write clear, developer-friendly tutorials to make backend concepts easy to grasp.
 
-💼 Currently interning as a Backend Developer at SpaceYaTech
+💼 Currently working as a Backend Developer at SpaceYaTech
 ⭐️ **Let’s build amazing things together.**
 
 
