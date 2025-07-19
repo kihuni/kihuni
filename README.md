@@ -23,6 +23,7 @@ AWS · Heroku · DigitalOcean
 I write tutorials, guides, and docs for developers at [DEV.to](https://dev.to/kihuni)
 
 💼 Let's Work Together
+
 Open to:
 
 - Freelance & Contract Work
