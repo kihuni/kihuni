@@ -1,56 +1,36 @@
 # 👋 Hi, I'm Stephen Kihuni
+🎯 Backend Developer | API Developer | Technical Writer
 
-**🎯 Backend Developer | API Developer | Technical Writer**
+I specialize in building robust, scalable, and secure APIs using Django and Python. From RESTful design to cloud deployment, I focus on solutions that work. I also write clear, developer-friendly tutorials to make backend concepts easy to grasp.
 
-I build robust, scalable, and secure APIs using **Django** and **Python**. From designing RESTful services to deploying on the cloud, I specialize in backend solutions that just work. I’m also passionate about making complex technical concepts easy to understand through **clear and actionable content**.
+💼 Currently interning as a Backend Developer at SpaceYaTech
+⭐️ **Let’s build amazing things together.**
 
----
 
 ## 🚀 What I Do
+🔧 Backend Development
+Tech: Python · Django · DRF
 
-### 🔧 Backend Development
-- **Languages & Frameworks**: Python · Django · Django REST Framework  
-- **Databases**: PostgreSQL · MySQL · Redis  
-- **API Development**: RESTful APIs · OpenAPI/Swagger · JWT & OAuth2 · Rate Limiting  
+Databases: PostgreSQL · MySQL · Redis
 
-### ☁️ DevOps & Deployment
-- **Tools**: Docker · GitHub Actions · CI/CD  
-- **Cloud**: AWS · DigitalOcean · Heroku  
+APIs: REST · OpenAPI/Swagger · JWT · OAuth2
 
-### ✍️ Technical Writing
-I write developer-focused tutorials, documentation, and in-depth guides to help others build more effective APIs.
+## ☁️ DevOps & Deployment
+Docker · GitHub Actions · CI/CD
 
-> 📌 **Featured Series**:  
-> [🚀 How to Build a Task Manager API with Django REST Framework](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)  
-> _From project setup to authentication and testing — a complete walkthrough._
+AWS · Heroku · DigitalOcean
 
-📝 More articles on [dev.to/kihuni »](https://dev.to/kihuni)
+## ✍️ Technical Writing
+I write tutorials, guides, and docs for developers at [DEV.to](https://dev.to/kihuni)
 
----
+💼 Let's Work Together
+Open to:
 
-## 💼 Let's Collaborate
+- Freelance & Contract Work
 
-Looking for a **Django Backend Developer**, **API Developer**, or **Technical Writer**?
+- Writing & Documentation
 
-I’m open to:
-- 💼 Freelance & Contract Work  
-- 🛠️ Open Source Projects  
-- 📝 Writing & Documentation Opportunities  
+📫 stephenkihuni55@gmail.com
+🐦 @Skihuni · 🔗[linkedin](https://www.linkedin.com/in/kihuni/)
 
-📫 Reach me at:  
-[📧 stephenkihuni55@gmail.com](mailto:stephenkihuni55@gmail.com)  
-[🐦 @Skihuni](https://twitter.com/Skihuni) • [🔗 LinkedIn](https://linkedin.com/in/stephen-kihuni)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kihuni&show_icons=true&theme=radical" alt="Stephen Kihuni's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kihuni&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-
-⭐️ **Let’s build amazing things together.**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kihuni&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kihuni&layout=compact&theme=radical" width="48%" /> </p>
