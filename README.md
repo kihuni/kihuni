@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Stephen Kihuni
-🎯 Backend Developer | API Developer | Technical Writer
 
-I specialize in building robust, scalable, and secure APIs using Django and Python. From RESTful design to cloud deployment, I focus on solutions that work. I also write clear, developer-friendly tutorials to make backend concepts easy to grasp.
+🚀 **Backend Engineer | Django & API Specialist | Scalable, Secure Systems**
 
-💼 Currently working as a Backend Developer at SpaceYaTech
+I design and build **secure, high-performance backend systems** with a focus on clean architecture, scalability, and maintainability.  
+With over **2 years of professional experience** in Python/Django, I’ve worked on **Financial application, healthcare, telemedicine, and real-time collaboration platforms**, taking projects from idea to production.
+
+---
+
+💼 Currently working as a Community Manager at SpaceYaTech
 
 
 ## 🚀 What I Do
