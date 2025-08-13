@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stephen Kihuni
 
-🚀 **Backend Engineer | Django & API Specialist | Scalable, Secure Systems**
+**Backend Engineer | Django & API Specialist | Scalable, Secure Systems**
 
 I design and build **secure, high-performance backend systems** with a focus on clean architecture, scalability, and maintainability.  
 With over **2 years of professional experience** in Python/Django, I’ve worked on **Financial application, healthcare, telemedicine, and real-time collaboration platforms**, taking projects from idea to production.
